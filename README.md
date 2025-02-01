@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá!👋
 
-<!--
-**GiFerreira-Dev/GiFerreira-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou a Giovanna Ferreira ou GiFerreira-Dev. Formada em Análise em Desenvolvimento de Sistemas na instituição Senai Suzana Dias, atualmente estou aprimorando minhas habilidades no Desenvolvimento FullStack com o programa One Next Education em parceria com a Alura.
+- 🔭 Atualmente estou buscando meu primeiro emprego
+- 🌱 Estudando no programa One Next Education
+- 😄 Pronomes: ela/dela
 
-Here are some ideas to get you started:
+![GiFerreira-Dev's Stats](https://github-readme-stats.vercel.app/api?username=GiFerreira-Dev&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias Utilizadas 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react)](https://skillicons.dev)
+
+![GiFerreira-Dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiFerreira-Dev&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
