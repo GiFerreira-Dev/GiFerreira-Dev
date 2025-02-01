@@ -11,4 +11,4 @@ Eu sou a Giovanna Ferreira ou GiFerreira-Dev. Formada em Análise em Desenvolvim
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react)](https://skillicons.dev)
 
-![gisilva-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gisilva-dev&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+![GiFerreira-Dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiFerreira-Dev&theme=react&show_icons=true&hide_border=false&layout=compact)
