@@ -1,6 +1,6 @@
 ## Olá!👋
 
-Eu sou a Giovanna Ferreira ou GiFerreira-Dev. Formada em Análise em Desenvolvimento de Sistemas na instituição Senai Suzana Dias, atualmente estou aprimorando minhas habilidades no Desenvolvimento FullStack com o programa One Next Education em parceria com a Alura.
+Eu sou a Giovanna Ferreira ou GiFerreira-Dev. Formada em Análise em Desenvolvimento de Sistemas na instituição Senai Suzana Dias, atualmente estou aprimorando minhas habilidades no Desenvolvimento FullStack com o programa Oracle Next Education em parceria com a Alura.
 - 🔭 Atualmente estou buscando meu primeiro emprego
 - 🌱 Estudando no programa One Next Education
 - 😄 Pronomes: ela/dela
